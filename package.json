@@ -1,0 +1,13 @@
+{
+  "name": "glyph2svg",
+  "version": "0.1.0",
+  "description": "",
+  "main": "glyph2svg.js",
+  "author": "kostasx <minaidisk@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chardet": "^0.1.0",
+    "he": "^1.1.1",
+    "xml2js": "^0.4.17"
+  }
+}
