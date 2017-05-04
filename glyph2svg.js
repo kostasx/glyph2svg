@@ -34,3 +34,5 @@ init = function() {
     return svg;
   });
 };
+
+init();

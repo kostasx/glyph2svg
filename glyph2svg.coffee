@@ -34,3 +34,5 @@ init = ()->
       svg
 
   )
+
+init()
